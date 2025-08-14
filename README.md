@@ -17,9 +17,9 @@ Este projeto é um **slide interativo** que apresenta técnicas de primeiros soc
 ## Estrutura do Projeto
 
 /index.html -> Arquivo principal com todos os slides
-
+<br>
 /style.css -> CSS personalizado
-
+<br>
 /script.js -> Lógica de navegação dos slides
 
 
